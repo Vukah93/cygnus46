@@ -1,4 +1,3 @@
-
 config SHIELD_CYGNUS_LEFT
     def_bool $(shields_list_contains,cygnus_left)
 
